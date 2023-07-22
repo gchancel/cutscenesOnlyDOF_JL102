@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="cutscenesOnlyDof_JL102" Build_date="22/07/2023 16:47:36">
+  <Files>
+    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102">
+      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content">
+        <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts">
+          <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\game">
+            <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\game\gui">
+              <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\game\gui\hud">
+                <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\game\gui\hud\hud.ws</file>
+              </Directory>
+            </Directory>
+          </Directory>
+          <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\local">
+            <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\local\enableDofGlobally.ws</file>
+          </Directory>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>
