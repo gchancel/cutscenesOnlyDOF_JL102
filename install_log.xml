@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<InstalLog Project="cutscenesOnlyDof_JL102" Build_date="09/08/2023 00:07:05">
+<InstalLog Project="cutscenesOnlyDof_JL102" Build_date="09/08/2023 01:28:46">
   <Files>
     <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102">
       <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content">
@@ -8,11 +8,16 @@
             <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\game\gui">
               <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\game\gui\hud">
                 <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\game\gui\hud\hud.ws</file>
+                <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\game\gui\hud\hud.ws.old</file>
               </Directory>
             </Directory>
             <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\game\player">
               <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\game\player\r4Player.ws</file>
+              <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\game\player\r4Player.ws.old</file>
             </Directory>
+          </Directory>
+          <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\local">
+            <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modcutscenesOnlyDof_JL102\content\scripts\local\jl102Func.ws</file>
           </Directory>
         </Directory>
       </Directory>
